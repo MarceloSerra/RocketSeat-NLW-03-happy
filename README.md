@@ -31,7 +31,7 @@
 <!-- PROJECT LOGO -->
 <br />
   <a style="text-align: center;" href="https://github.com/MarceloSerra/RocketSeat-NLW-03-happy">
-    <img src="presentation/logo.svg" alt="Logo" width="80" height="80" style="display: block; margin: 0 auto;">
+    <img src="presentation/logo.svg" alt="Logo" width="160" height="160">
   </a>
 
 
@@ -55,7 +55,7 @@
 
   <br>
   <figure style="text-align: center;">
-    <img src="presentation/screenshot.png" alt="Logo" width="640" height="360" style="display: block; margin: 0 auto;">
+    <img src="presentation/screenshot.png" alt="Logo" width="100%" height="auto">
   <figure>
   <br>
 
