@@ -30,9 +30,8 @@
 
 <!-- PROJECT LOGO -->
 <br />
-<p align="center">
   <a href="https://github.com/MarceloSerra/RocketSeat-NLW-03-happy">
-    <img src="presentation/logo.png" alt="Logo" width="80" height="80">
+    <img src="presentation/logo.png" alt="Logo" width="80" height="80" style="display: block; margin: 0 auto;">
   </a>
 
 
@@ -54,7 +53,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About the Project 
 
-  <br><img src="presentation/screenshot.png" alt="Logo" width="640" height="360"><br>
+  <br><img src="presentation/screenshot.png" alt="Logo" width="640" height="360" style="display: block; margin: 0 auto;"><br>
 
 Happy é uma aplicação desenvolvida do zero nas principais stacks com o objetivo nobre de facilitar  ambos cadastramento, visualização e localização de Serviços de Acolhimento Institucional para Crianças e Adolescentes (Orfanatos, anteriormente)
 
