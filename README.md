@@ -30,8 +30,8 @@
 
 <!-- PROJECT LOGO -->
 <br />
-  <a style="text-align: center;" href="https://github.com/MarceloSerra/RocketSeat-NLW-03-happy">
-    <img src="presentation/logo.svg" alt="Logo" width="160" height="160">
+  <a style="display: flex; align-items: center; justify-content: space-between;" href="https://github.com/MarceloSerra/RocketSeat-NLW-03-happy">
+    <img src="presentation/logo.svg" alt="Logo" width="500" height="auto">
   </a>
 
 
