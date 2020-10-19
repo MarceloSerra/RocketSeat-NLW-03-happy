@@ -121,7 +121,7 @@ cd  ./frontend/happy
 ```sh
 npm install
 ```
-4. 
+4. Start project
 ```sh
 yarn start 
 ```
@@ -134,7 +134,7 @@ cd  ./backend/backend
 ```sh
 npm install
 ```
-7. 
+7. Start API
 ```sh
 yarn dev 
 ```
@@ -147,7 +147,7 @@ cd  ./mobile/mobile
 ```sh
 npm install
 ```
-7. 
+7. Start project
 ```sh
 expo start 
 ```
