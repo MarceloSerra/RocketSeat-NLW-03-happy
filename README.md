@@ -17,12 +17,14 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
+
+
+<!-- [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[![LinkedIn][linkedin-shield]][linkedin-url] -->
 
 
 
@@ -30,7 +32,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/MarceloSerra/RocketSeat-NLW-03-happy">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="presentation/logo.png" alt="Logo" width="80" height="80">
   </a>
 
 
@@ -52,7 +54,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About the Project 
 
-  <br><img src="images/screenshot.png" alt="Logo" width="640" height="360"><br>
+  <br><img src="presentation/screenshot.png" alt="Logo" width="640" height="360"><br>
 
 Happy é uma aplicação desenvolvida do zero nas principais stacks com o objetivo nobre de facilitar  ambos cadastramento, visualização e localização de Serviços de Acolhimento Institucional para Crianças e Adolescentes (Orfanatos, anteriormente)
 
