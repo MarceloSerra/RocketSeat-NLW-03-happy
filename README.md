@@ -28,11 +28,12 @@
 
 
 
-<!-- PROJECT LOGO -->
+<!-- PROJECT LOGO 
 <br />
   <a style="display: flex; align-items: center; justify-content: space-between;" href="https://github.com/MarceloSerra/RocketSeat-NLW-03-happy">
     <img src="presentation/logo.svg" alt="Logo" width="500" height="auto">
   </a>
+-->
 
 
 <!-- TABLE OF CONTENTS -->
